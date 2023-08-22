@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raju.CRM.Plugin", "Raju.CRM.Plugin.csproj", "{54BE70D6-4F1A-4125-95A6-6684FC00C858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BE70D6-4F1A-4125-95A6-6684FC00C858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BE70D6-4F1A-4125-95A6-6684FC00C858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BE70D6-4F1A-4125-95A6-6684FC00C858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BE70D6-4F1A-4125-95A6-6684FC00C858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB38B6EE-B501-4ECA-B81B-EBA079030178}
+	EndGlobalSection
+EndGlobal
